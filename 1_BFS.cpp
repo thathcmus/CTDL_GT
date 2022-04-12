@@ -78,7 +78,7 @@ int main()
     g.addEdge(3, 3);
     g.addEdge(4, 4);
 
-    cout << "Duyet do thi da cho theo thuat toan Tim kiem uu tien chieu rong (BFS) "
+    cout << "\nDuyet do thi da cho theo thuat toan Tim kiem uu tien chieu rong (BFS) "
          << "(bat dau tu nut 0) \n";
     g.BFS(0);
 

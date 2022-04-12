@@ -66,7 +66,7 @@ int main()
     gdfs.addEdge(3, 3);
     gdfs.addEdge(4, 4);
 
-    cout << "Duyet do thi da cho theo thuat toan Tim kiem uu tien chieu sau (DFS) :"<<endl;
+    cout << "\nDuyet do thi da cho theo thuat toan Tim kiem uu tien chieu sau (DFS) :"<<endl;
     gdfs.DFS();
 
     return 0;
